@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rod
 - 👀 I’m interested in artificial intelligence, data science, and robotics
-- 🌱 I’m currently learning reinforcement learning
-- 💞️ I’m looking to collaborate on certain projects that I am working on such as, reinforcement learning, application development, forecasting models, and websites.
+- 🌱 I’m currently learning data engineering
+- 💞️ I’m looking to collaborate on certain projects that I am working on such as, reinforcement learning, application development, data engineering pipelines, and websites.
 
 
 <!---
